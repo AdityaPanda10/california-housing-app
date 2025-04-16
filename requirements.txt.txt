@@ -1,0 +1,18 @@
+streamlit==1.15.0
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.2
+matplotlib==3.7.1
+seaborn==0.11.2
+
+Explanation:
+
+    streamlit: Ye framework hai, jo app ko web par display karega.
+
+    pandas: Data manipulation aur processing ke liye.
+
+    numpy: Numerical operations (arrays, mathematical functions, etc.) ke liye.
+
+    scikit-learn: Machine learning algorithms (Linear Regression, Logistic Regression).
+
+    matplotlib & seaborn: Visualization libraries for plotting graphs and charts.
